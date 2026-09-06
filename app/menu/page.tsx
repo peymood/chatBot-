@@ -66,7 +66,9 @@ const MenuPage = () => {
       {/* ChatBot Modal */}
       {click && (
         <div className="fixed right-6 bottom-20 z-50">
-          <ChatBot />
+          <ChatBot
+            onClose={() => setClick(false)}
+          />
         </div>
       )}
     </div>

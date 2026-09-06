@@ -12,6 +12,8 @@
     "@ai-sdk/openai": "^4.0.58",
     "@ai-sdk/react": "^4.0.95",
     "@base-ui/react": "^1.8.0",
+    "@shadcn/helpers": "^0.2.0",
+    "@shadcn/react": "^0.3.1",
     "ai": "^7.0.92",
     "axios": "^1.20.0",
     "class-variance-authority": "^0.7.1",
